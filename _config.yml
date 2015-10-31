@@ -1,0 +1,23 @@
+name: DS Test site
+favicon: null
+layout_spectrum: 0.08777933800593019
+typography_spectrum: 0.05008085840381682
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.07881514634937048
+  lightness: 0.09357176604680717
+  saturation: 0.5607187235727906
+  rhythmicContrast: 0.25710032996721566
+purpose: []

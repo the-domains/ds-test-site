@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-10-31T20:28:02.254Z'
-dateModified: '2015-10-31T20:27:56.407Z'
+datePublished: '2015-10-31T20:32:10.185Z'
+dateModified: '2015-10-31T20:31:44.624Z'
 title: No two Dublin educations are the same.
 sourcePath: _posts/2015-10-31-no-two-dublin-educations-are-the-same.md
 published: true

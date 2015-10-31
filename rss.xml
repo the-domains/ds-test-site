@@ -4,7 +4,7 @@
         <description><![CDATA[DS Test site]]></description>
         <link>https://thegrid.ai/ds-test-site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 31 Oct 2015 20:35:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Oct 2015 20:44:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ds-test-site/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No two Dublin educations are the same.]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/ds-test-site/no-two-dublin-educations-are-the-same/index.html</link>
             <guid isPermaLink="false">d2172f30-c530-480f-b708-3c188f83efcf</guid>
             <pubDate>Sat, 31 Oct 2015 20:35:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[We don't pay lip service to the Arts.]]></title>
+            <description><![CDATA[<article><h1>We don't pay lip service to the Arts.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b29a35f-b263-4c4e-b1af-cbe34c86ba8f.jpg"></article>]]></description>
+            <link>https://thegrid.ai/ds-test-site/we-dont-pay-lip-service-to-the-arts/index.html</link>
+            <guid isPermaLink="false">0dbc065c-ff17-47d8-8921-388dfa7dd123</guid>
+            <pubDate>Sat, 31 Oct 2015 20:44:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>

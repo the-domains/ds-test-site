@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[DS Test site]]></title>
         <description><![CDATA[DS Test site]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ds-test-site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 31 Oct 2015 20:11:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 31 Oct 2015 20:17:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ds-test-site/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No two Dublin educations are the same.]]></title>
+            <description><![CDATA[<h1>No two Dublin educations are the same.</h1>]]></description>
+            <link>https://thegrid.ai/ds-test-site/no-two-dublin-educations-are-the-same/index.html</link>
+            <guid isPermaLink="false">d2172f30-c530-480f-b708-3c188f83efcf</guid>
+            <pubDate>Sat, 31 Oct 2015 20:16:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Managing the Commons]]></title>
             <description><![CDATA[<article><h1>Managing the Commons</h1><p>I remember taking a great Environmental Studies course in college where we studied a fascinating book calledManaging the Commons. It spoke about the idea of the "commons" in places like England where towns had shared open space that served as a community resource. People often met and conversed on these commons while letting their animals graze on the vast expanses of grass and meadow. At Dublin School most of our communication is done face to face, often on our quad, yet without the animals. We also have a virtual "commons" called our Gmail Commons where any member of the community can send an email to the entire school. While preparing for Family Weekend I was reading the Commons emails and noticed that they told a story about our school that our parents might not readily know or see. I have decided to share some of these emails to the Commons from a single 36 hour period on our campus. What story do they tell you?</p></article>]]></description>
-            <link>undefinedmanaging-the-commons/index.html</link>
+            <link>https://thegrid.ai/ds-test-site/managing-the-commons/index.html</link>
             <guid isPermaLink="false">bad35522-7e13-4b9f-8806-f1a0a51d43aa</guid>
             <pubDate>Sat, 31 Oct 2015 20:10:16 GMT</pubDate>
         </item>

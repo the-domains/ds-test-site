@@ -1,22 +1,22 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-10-31T20:16:38.093Z'
-dateModified: '2015-10-31T20:16:23.504Z'
+datePublished: '2015-10-31T20:28:02.254Z'
+dateModified: '2015-10-31T20:27:56.407Z'
 title: No two Dublin educations are the same.
+sourcePath: _posts/2015-10-31-no-two-dublin-educations-are-the-same.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-10-31-no-two-dublin-educations-are-the-same.md
-published: true
 url: no-two-dublin-educations-are-the-same/index.html
 _type: Article
 
@@ -25,9 +25,9 @@ _type: Article
 
 **We couple the power of a classic college preparatory education with the ability and flexibility to dive deeper into a newly discovered passion.**
 
-We require**rigorous and extensive course work**in English, Mathematics, Science, History, a World Language, Technology and the Arts. But this is just the foundation. The excitement for our students is in being able to**take their ideas and passions further.**
+We require **rigorous and extensive course work **in English, Mathematics, Science, History, a World Language, Technology and the Arts. But this is just the foundation. The excitement for our students is in being able to **take their ideas and passions further.**
 
-For some that is in investing themselves heavily in AP Course work in the Sciences or Humanities. For others it is maximizing self-expression through both the Visual and Performing Arts. Others delve deeply into Technology and Robotics. They are fully supported through student requested electives, independent studies and a capstone Senior Project that offers students the opportunity to engage in a**year-long rigorous study**centered-around a question or topic that is of special interest to them.
+For some that is in investing themselves heavily in AP Course work in the Sciences or Humanities. For others it is maximizing self-expression through both the Visual and Performing Arts. Others delve deeply into Technology and Robotics. They are fully supported through student requested electives, independent studies and a capstone Senior Project that offers students the opportunity to engage in a **year-long rigorous study **centered-around a question or topic that is of special interest to them.
 
 **But what if I don't have an academic passion right now?**
 

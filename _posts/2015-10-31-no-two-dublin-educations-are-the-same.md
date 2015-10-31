@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-10-31T20:32:10.185Z'
-dateModified: '2015-10-31T20:31:44.624Z'
+datePublished: '2015-10-31T20:35:19.516Z'
+dateModified: '2015-10-31T20:35:13.590Z'
 title: No two Dublin educations are the same.
 sourcePath: _posts/2015-10-31-no-two-dublin-educations-are-the-same.md
 published: true
